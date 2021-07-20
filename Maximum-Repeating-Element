@@ -10,7 +10,6 @@ public class Main
         Scanner in =new Scanner(System.in);
         int size=in.nextInt();
         int array[]=new int[size];
-        double product=1;
         int MaxCount=0;
         int Counter=0;
         int Element=0;
